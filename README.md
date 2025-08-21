@@ -78,7 +78,13 @@ Designed an interactive dashboard with the following features:
 - Identified top-performing regions driving majority of sales.  
 - Segmented **revenue vs. profit** to spot high-revenue but low-profit categories.  
 - Highlighted customer segments with **higher-than-average contribution**.  
-- Used map visualizations to detect geographical sales patterns.  
+- Used map visualizations to detect geographical sales patterns.
+
+## Important Links
+
+- [View Live Dashboard](https://public.tableau.com/app/profile/shashwat.sungh/viz/BooK5_17555197042170/CustomerRegion?publish=yes)  
+- [View Notion Project Template](https://www.notion.so/Sales-Analysis-Project-247123ae0dc780ee8c8ffa4e5353f193)
+- [Open Main Jupyter Notebook](notebook/Regional Sales Analysis.ipynb)
 
 ## Project Structure
 ```
