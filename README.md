@@ -1,4 +1,6 @@
-# Regional-Sales-Analysis--Tableau-Project
+# Regional-Sales-Analysis-Project <a href="https://public.tableau.com/app/profile/mrankitgupta" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="55" height="40"/><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="50"/>
+</a>
+
 
 ## About
 This project focuses on analyzing regional sales data to identify high-performing regions, evaluate product performance, and understand customer purchasing behavior. The primary objective is to provide actionable insights through an **interactive Tableau dashboard**, enabling better decision-making for sales strategies and business growth.  
