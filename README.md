@@ -14,19 +14,7 @@ By analyzing revenue, profit, and customer behavior, this project helps uncover 
 ## About Data
 This project’s data is sourced from Kaggle and contains sales transactions with attributes like product details, customer segments, revenue, and regional information.  
 
-| Column        | Description                                       | Data Type        |
-|---------------|---------------------------------------------------|------------------|
-| Order ID      | Unique ID for each transaction                    | VARCHAR(20)      |
-| Product       | Product sold (Product 1, Product 2, etc.)         | VARCHAR(50)      |
-| Category      | Category of product                               | VARCHAR(50)      |
-| Region        | Geographical region of the sale                   | VARCHAR(30)      |
-| Customer      | Customer identifier                               | VARCHAR(50)      |
-| Segment       | Customer segment (Retail, Corporate, etc.)        | VARCHAR(30)      |
-| Quantity      | Number of units sold                              | INT              |
-| Sales         | Total sales value                                 | DECIMAL(10,2)    |
-| Profit        | Profit earned from the sale                       | DECIMAL(10,2)    |
-| Order Date    | Date of transaction                               | DATE             |
-
+<img src= "https://github.com/ShashwatAnalyst/Regional-Sales-Analysis/blob/main/docs/ER_Diagram_Screenshot.png?raw=true">
 
 ## Analysis List
 
