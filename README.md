@@ -18,11 +18,11 @@ This project’s data is sourced from Kaggle and contains sales transactions wit
 
 ## Analysis List
 
-1. **Product Analysis**  
+  
+1. **Sales Analysis**  
+   > Understand sales patterns across different time periods and regions, evaluate revenue and profit contribution, and identify growth opportunities.
+2. **Product Analysis**  
    > Analyze sales by product category, identify top-performing products, and highlight underperforming ones.  
-
-2. **Sales Analysis**  
-   > Understand sales patterns across different time periods and regions, evaluate revenue and profit contribution, and identify growth opportunities.  
 
 3. **Customer & Regional Analysis**  
    > Study customer segments, purchasing trends, and profitability across regions to uncover behavioral insights.  
