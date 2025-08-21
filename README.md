@@ -77,7 +77,7 @@ Designed an interactive dashboard with the following features:
 - Used map visualizations to detect geographical sales patterns.  
 
 ## Project Structure
-
+```
 ├── data
 │ ├── processed
 │ │ ├── file.csv
@@ -96,7 +96,7 @@ Designed an interactive dashboard with the following features:
 │ └── Regional_Sales_Dashboard.twbx # Tableau dashboard file
 │
 └── README.md
-
+```
 ## Author
 **Shashwat Singh**  
 📈 Data Analyst | BI Developer  
