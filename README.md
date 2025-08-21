@@ -59,7 +59,7 @@ Designed an interactive dashboard with the following features:
 4. Which segment contributes the most to overall sales?  
 
 ### Product Analysis
-1. Which product categories generate the highest revenue?  
+1. Which product generate the highest revenue?  
 2. What are the top-performing products?  
 3. Which products yield the highest profit margins?  
 4. Are there products underperforming compared to average sales?  
