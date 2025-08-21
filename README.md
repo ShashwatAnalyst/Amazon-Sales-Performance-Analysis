@@ -101,6 +101,6 @@ Designed an interactive dashboard with the following features:
 ```
 ## Author
 **Shashwat Singh**  
-📈 Data Analyst | BI Developer  
+Passionate about **Data Analytics, Visualization, and Storytelling with Data**.
 💼 [LinkedIn](https://www.linkedin.com/in/shashwat-singh-bb2730357/) | [Portfolio](https://www.shashwatanalyst.online/)  
 
