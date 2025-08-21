@@ -84,7 +84,7 @@ Designed an interactive dashboard with the following features:
 
 - [View Live Dashboard](https://public.tableau.com/app/profile/shashwat.sungh/viz/BooK5_17555197042170/CustomerRegion?publish=yes)  
 - [View Notion Project Template](https://www.notion.so/Sales-Analysis-Project-247123ae0dc780ee8c8ffa4e5353f193)
-- [Open Main Jupyter Notebook](notebook/Regional Sales Analysis.ipynb)
+- [Open Main Jupyter Notebook](notebook)
 
 ## Project Structure
 ```
