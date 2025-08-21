@@ -76,7 +76,26 @@ Designed an interactive dashboard with the following features:
 - Highlighted customer segments with **higher-than-average contribution**.  
 - Used map visualizations to detect geographical sales patterns.  
 
+## Project Structure
 
+├── data
+│ ├── processed
+│ │ ├── file.csv
+│ │ └── final.csv
+│ └── raw
+│ └── Regional Sales Dataset.xlsx
+│
+├── docs
+│ ├── ER_Diagram.drawio
+│ ├── ER_Diagram_Screenshot.png
+│ ├── Total_Sales_by_State.png
+│ └── notebook
+│ └── Regional Sales Analysis.ipynb
+│
+├── dashboard
+│ └── Regional_Sales_Dashboard.twbx # Tableau dashboard file
+│
+└── README.md
 
 ## Author
 **Shashwat Singh**  
