@@ -1,11 +1,11 @@
-# Regional-Sales-Analysis-Project <a href="https://public.tableau.com/app/profile/shashwat.sungh/viz/BooK5_17555197042170/CustomerRegion?publish=yes" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="55" height="40"/><a href="notebook/Regional Sales Analysis.ipynb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="50"/><a href="https://www.notion.so/Sales-Analysis-Project-247123ae0dc780ee8c8ffa4e5353f193" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/notion.svg" alt="notion" width="55" height="40"/>
+# Sales-Analysis-Project <a href="https://public.tableau.com/app/profile/shashwat.sungh/viz/BooK5_17555197042170/CustomerRegion?publish=yes" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/mrankitgupta/mrankitgupta/a768d6bf0a001f03327578ae12f8867e4056cbaf/tableau-software.svg" alt="tableau" width="55" height="40"/><a href="notebook/Regional Sales Analysis.ipynb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="50"/><a href="https://www.notion.so/Sales-Analysis-Project-247123ae0dc780ee8c8ffa4e5353f193" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/notion.svg" alt="notion" width="55" height="40"/>
 </a>
 
 </a>
 
 
 ## About
-This project focuses on analyzing regional sales data to identify high-performing regions, evaluate product performance, and understand customer purchasing behavior. The primary objective is to provide actionable insights through an **interactive Tableau dashboard**, enabling better decision-making for sales strategies and business growth.  
+This project focuses on analyzing sales data to identify high-performing regions, evaluate product performance, and understand customer purchasing behavior. The primary objective is to provide actionable insights through an **interactive Tableau dashboard**, enabling better decision-making for sales strategies and business growth.  
 
 The dataset utilized in this project is a publicly available **dummy dataset sourced from Kaggle**. It simulates transactions across different regions, products, and customer segments, making it suitable for practicing data cleaning, exploratory analysis, and dashboard building.
 
