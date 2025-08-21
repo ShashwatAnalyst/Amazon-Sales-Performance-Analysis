@@ -94,17 +94,17 @@ Designed an interactive dashboard with the following features:
 │ │ ├── file.csv
 │ │ └── final.csv
 │ └── raw
-│ └── Regional Sales Dataset.xlsx
+│ └── Sales Dataset.xlsx
 │
 ├── docs
 │ ├── ER_Diagram.drawio
 │ ├── ER_Diagram_Screenshot.png
 │ ├── Total_Sales_by_State.png
 │ └── notebook
-│ └── Regional Sales Analysis.ipynb
+│ └── Sales Analysis.ipynb
 │
 ├── dashboard
-│ └── Regional_Sales_Dashboard.twbx # Tableau dashboard file
+│ └── Sales_Dashboard.twbx # Tableau dashboard file
 │
 └── README.md
 ```
