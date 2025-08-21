@@ -52,17 +52,17 @@ Designed an interactive dashboard with the following features:
 
 ## Business Questions to Answer
 
-### Product Analysis
-1. Which product categories generate the highest revenue?  
-2. What are the top-performing products?  
-3. Which products yield the highest profit margins?  
-4. Are there products underperforming compared to average sales?  
-
 ### Sales Analysis
 1. What is the monthly sales trend?  
 2. Which regions generate the highest sales and profits?  
 3. What is the profit-to-revenue ratio across regions?  
 4. Which segment contributes the most to overall sales?  
+
+### Product Analysis
+1. Which product categories generate the highest revenue?  
+2. What are the top-performing products?  
+3. Which products yield the highest profit margins?  
+4. Are there products underperforming compared to average sales?  
 
 ### Customer & Regional Analysis
 1. Which customer segments generate the most revenue?  
