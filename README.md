@@ -13,7 +13,7 @@ By analyzing revenue, profit, and customer behavior, this project helps uncover 
 
 
 ## About Data
-This project’s data is sourced from Kaggle and contains sales transactions with attributes like product details, customer segments, revenue, and regional information.  
+This Amazon project’s data is sourced from Kaggle and contains sales transactions with attributes like product details, customer segments, revenue, and regional information.  
 
 <img src= "https://github.com/ShashwatAnalyst/Regional-Sales-Analysis/blob/main/docs/ER_Diagram_Screenshot.png?raw=true">
 
